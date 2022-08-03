@@ -1,0 +1,22 @@
+C:\Users\posy2\Desktop\ЯП\лабы 3семак\WindowsFormsAppMySort\WindowsFormsAppMySort\bin\Debug\WindowsFormsAppMySort.exe.config
+C:\Users\posy2\Desktop\ЯП\лабы 3семак\WindowsFormsAppMySort\WindowsFormsAppMySort\bin\Debug\WindowsFormsAppMySort.exe
+C:\Users\posy2\Desktop\ЯП\лабы 3семак\WindowsFormsAppMySort\WindowsFormsAppMySort\bin\Debug\WindowsFormsAppMySort.pdb
+C:\Users\posy2\Desktop\ЯП\лабы 3семак\WindowsFormsAppMySort\WindowsFormsAppMySort\obj\Debug\WindowsFormsAppMySort.csprojAssemblyReference.cache
+C:\Users\posy2\Desktop\ЯП\лабы 3семак\WindowsFormsAppMySort\WindowsFormsAppMySort\obj\Debug\WindowsFormsAppMySort.Form1.resources
+C:\Users\posy2\Desktop\ЯП\лабы 3семак\WindowsFormsAppMySort\WindowsFormsAppMySort\obj\Debug\WindowsFormsAppMySort.Form2.resources
+C:\Users\posy2\Desktop\ЯП\лабы 3семак\WindowsFormsAppMySort\WindowsFormsAppMySort\obj\Debug\WindowsFormsAppMySort.Properties.Resources.resources
+C:\Users\posy2\Desktop\ЯП\лабы 3семак\WindowsFormsAppMySort\WindowsFormsAppMySort\obj\Debug\WindowsFormsAppMySort.csproj.GenerateResource.cache
+C:\Users\posy2\Desktop\ЯП\лабы 3семак\WindowsFormsAppMySort\WindowsFormsAppMySort\obj\Debug\WindowsFormsAppMySort.csproj.CoreCompileInputs.cache
+C:\Users\posy2\Desktop\ЯП\лабы 3семак\WindowsFormsAppMySort\WindowsFormsAppMySort\obj\Debug\WindowsFormsAppMySort.exe
+C:\Users\posy2\Desktop\ЯП\лабы 3семак\WindowsFormsAppMySort\WindowsFormsAppMySort\obj\Debug\WindowsFormsAppMySort.pdb
+C:\Users\posy2\Desktop\ЯП\MySort\WindowsFormsAppMySort\WindowsFormsAppMySort\bin\Debug\WindowsFormsAppMySort.exe.config
+C:\Users\posy2\Desktop\ЯП\MySort\WindowsFormsAppMySort\WindowsFormsAppMySort\bin\Debug\WindowsFormsAppMySort.exe
+C:\Users\posy2\Desktop\ЯП\MySort\WindowsFormsAppMySort\WindowsFormsAppMySort\bin\Debug\WindowsFormsAppMySort.pdb
+C:\Users\posy2\Desktop\ЯП\MySort\WindowsFormsAppMySort\WindowsFormsAppMySort\obj\Debug\WindowsFormsAppMySort.csprojAssemblyReference.cache
+C:\Users\posy2\Desktop\ЯП\MySort\WindowsFormsAppMySort\WindowsFormsAppMySort\obj\Debug\WindowsFormsAppMySort.Properties.Resources.resources
+C:\Users\posy2\Desktop\ЯП\MySort\WindowsFormsAppMySort\WindowsFormsAppMySort\obj\Debug\WindowsFormsAppMySort.csproj.GenerateResource.cache
+C:\Users\posy2\Desktop\ЯП\MySort\WindowsFormsAppMySort\WindowsFormsAppMySort\obj\Debug\WindowsFormsAppMySort.csproj.CoreCompileInputs.cache
+C:\Users\posy2\Desktop\ЯП\MySort\WindowsFormsAppMySort\WindowsFormsAppMySort\obj\Debug\WindowsFormsAppMySort.exe
+C:\Users\posy2\Desktop\ЯП\MySort\WindowsFormsAppMySort\WindowsFormsAppMySort\obj\Debug\WindowsFormsAppMySort.pdb
+C:\Users\posy2\Desktop\ЯП\MySort\WindowsFormsAppMySort\WindowsFormsAppMySort\obj\Debug\WindowsFormsAppMySort.FormGen.resources
+C:\Users\posy2\Desktop\ЯП\MySort\WindowsFormsAppMySort\WindowsFormsAppMySort\obj\Debug\WindowsFormsAppMySort.FormMain.resources
